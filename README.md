@@ -8,7 +8,7 @@ This is a third-party Android client for 1Point3Acres ([https://www.1point3acres
 
 ## Features
 For screen capture, please refer to YouTube:
-[https://www.youtube.com/watch?v=KRRtfh83b18](https://www.youtube.com/watch?v=KRRtfh83b18)
+[https://www.youtube.com/watch?v=aiYGwWfe2h0](https://www.youtube.com/watch?v=aiYGwWfe2h0)
 
 1. Browsing Warald's blogs.
 2. Browsing threads (text and images) in different forums.
