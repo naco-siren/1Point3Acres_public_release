@@ -1,4 +1,4 @@
-# # 一亩三分地 安卓客户端
+# 一亩三分地 安卓客户端
 
 ## 简介
 一亩三分地（[https://www.1point3acres.com](https://www.1point3acres.com)）留学网站的第三方安卓客户端。
