@@ -1,5 +1,7 @@
 # Android Client for 1Point3Acres Forum 
 
+![Banner](https://bqe1bw.bn1302.livefilestore.com/y3mix51CZ1GEja9arB1ymRH0YiS7hgakf7aqtkkkf4dvJ1iRMMJR1ASE5pBczX2XyXMWqsjHtWCKsYy4XljNcIelZ3-0xxIAtXVX2VD5mKhuowB9YR-YoMgUnS1ak1GXWZwNAGOwivbN1KrKc8SRp5T0JCoxahz8tG6j2HXVGRX1l4?width=1024&height=500&cropmode=none)
+
 ## Intro
 This is a third-party Android client for 1Point3Acres ([https://www.1point3acres.com](https://www.1point3acres.com)).
 
