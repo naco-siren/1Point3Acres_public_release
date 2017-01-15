@@ -7,7 +7,7 @@ This is a third-party Android client for 1Point3Acres ([https://www.1point3acres
 
 1Point3Acres is a well-known Chinese forum providing information on studying abroad, application to universities, job hunting, immigration and life overseas, etc.
 
-Available at [Google Play](https://play.google.com/store/apps/details?id=naco_siren.github.a1point3acres), [Baidu App Market](http://shouji.baidu.com/software/10756291.html), [Cool Market](http://www.coolapk.com/apk/naco_siren.github.a1point3acres).
+Available at [Google Play](https://play.google.com/store/apps/details?id=naco_siren.github.a1point3acres), [Baidu App Market](http://shouji.baidu.com/software/10756291.html), [Cool Market](http://www.coolapk.com/apk/naco_siren.github.a1point3acres), [Wandoujia](http://www.wandoujia.com/apps/naco_siren.github.a1point3acres).
 
 ## Features
 For screen capture, please refer to YouTube:
