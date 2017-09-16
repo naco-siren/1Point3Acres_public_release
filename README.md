@@ -3,7 +3,7 @@
 ![Banner](https://bqe1bw.bn1302.livefilestore.com/y4mix51CZ1GEja9arB1ymRH0W_ZWk6J0NbB69T3fowOyTctehJEUrK25eEm3pyittuTAqDI2TiJSARhkpnJhdFSWglyNpfoc0iajnaFkVZcwIZxozRmGAh7YxIc9r1Y3xYiwy7kvoQIG8AgunYGmTgmFun7qtzxjNn2Ce-A3s5wCJu8jW7kUGLeKD1pwHUi72IrgdyzHFxlvXSn5CLyOdoaQQ?width=1024&height=500&cropmode=none)
 
 ## Intro
-This is a third-party Android client for 1Point3Acres ([https://www.1point3acres.com](https://www.1point3acres.com)).
+This is a third-party Android client for 1Point3Acres ([http://www.1point3acres.com/bbs](http://www.1point3acres.com/bbs)).
 
 1Point3Acres is a well-known Chinese forum providing information on studying abroad, application to universities, job hunting, immigration and life overseas, etc.
 
