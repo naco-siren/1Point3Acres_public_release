@@ -7,7 +7,7 @@
 
 一亩三分地论坛和Warald博客致力于提供美国加拿大留学申请、求职就业、学习生活、移民身份等全方位信息，是信噪比最高、干货最多、人气最旺的中国人留学社区。
 
-已上线的商店：[Google Play](https://play.google.com/store/apps/details?id=naco_siren.github.a1point3acres)，[小米应用商店](http://app.mi.com/details?id=nacosiren.github.a1point3acres)，[豌豆荚](http://www.wandoujia.com/apps/naco_siren.github.a1point3acres)，[百度应用商店](http://shouji.baidu.com/software/10756291.html)，[酷市场](http://www.coolapk.com/apk/naco_siren.github.a1point3acres)，[91助手](http://apk.91.com/Soft/Android/naco_siren.github.a1point3acres-1020200.html)，[安卓网](http://apk.hiapk.com/appinfo/naco_siren.github.a1point3acres/1020200)。
+已上线 [Google Play](https://play.google.com/store/apps/details?id=naco_siren.github.a1point3acres)。
 
 [English version](https://github.com/naco-siren/1Point3Acres_public_release/blob/master/README.md)
 
@@ -30,3 +30,5 @@
 ![Thread content](https://sx6opw.bn1302.livefilestore.com/y4mTxni2ix2ED0NOQ1zPJFS_INqjk8nQZVMOGzN4b0FXXJk6KILPjnqgfOfIt1ob8RsTtKNauRM_WUfmuGkmdsltTpmZ_rYZU5zxDJcnV4h_Zbnzh1U-UAB68SpQts4JxOPVp6r1WMWsGfCh8ogPkLpnJ0zoN63LYD9cMCfvjD5MOYsecmTYztTCNxWS-gkuehekVD5sGnbBiJQLL2-qWDLdw?width=960&height=1570&cropmode=none)
 ![Thread comment](https://5pi1sg.bn1302.livefilestore.com/y4mc9J_8ko6lHORv8kJI9GAachbq61uLCiS7saiqTcBFzYJp8MQj7WrmmqkLoqCQkt1-10CJSdBARr6bEcfUTGxnpxJGq6XTmgD3b_-hDSFGa6g5kArO6yKzY9OoPBD5-yBdUfDQW7RsTlXDR_ktsW7hiEKVWnMk_D1QTCYVefez5x19C4ImIPxdcV7XWg05EjpsI0W33PhOFynMpxkUGgSJw?width=960&height=1570&cropmode=none)
 ![Settings](https://1msr7w.bn1302.livefilestore.com/y4mSlpz1JEBTBNODd4caQ1Ya-WvZ9EQC3wRtV6CMxP2FVIJDjJ6rjrmahoAuUvbhOumPI1iBLAMqY7SoG9620qtL3GTaUtKx1KopgTS5GGqN0TuAQrNUZG0rIniDgAThTF-wpKN6v_LnWfDdEPVnDcJI3hDKPzgWw1azEQV_0nsWr3-03QB-swB8zvJN9F4WLiBmpYrsqAD_jLd08xHbls70g?width=960&height=1570&cropmode=none)
+
+
